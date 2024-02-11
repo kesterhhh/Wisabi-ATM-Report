@@ -4,7 +4,7 @@
 
 This Power BI report analyzes ATM transaction data for Wisabi Bank, providing insights into customer behavior, ATM usage, and opportunities to improve services.
 
-**Disclaimer:** This report is based on a practice dataset, creating a fictional scenario for exploration, and does not represent any actual company, institution, or country. The insights presented in this report are based on simulated ATM transaction data and are intended for demonstration purposes only. They showcase the capabilities of Power BI.
+**_Disclaimer_:** This report is based on a practice dataset, creating a fictional scenario for exploration, and does not represent any actual company, institution, or country. The insights presented in this report are based on simulated ATM transaction data and are intended for demonstration purposes only. They showcase the capabilities of Power BI.
 
 **Problem Statement:**
 
@@ -40,10 +40,13 @@ The report contains three pages:
 2. Overview
 3. Demography
 
-The database for this project, sourced from the Wisabi Analytics YouTube channel, offers a comprehensive learning experience in data analysis. Visit Wisabi Analytics Youtube Page and take the Microsoft Power BI tutorial playlist.
+The dataset for this project, sourced from the Wisabi Analytics YouTube channel, offers a comprehensive learning experience in data analysis. Visit [Wisabi Analytics](https://www.youtube.com/@wisabianalytics/featured) Youtube Page and take the Microsoft Power BI tutorial playlist.
 
-You can also interact with the interactive report I designed here.
+You can also interact with the interactive report I designed [here](https://app.powerbi.com/view?r=eyJrIjoiMTExNDgxMGEtNjA0YS00YmE1LWIxOWQtM2I5YTY3Y2QyY2MxIiwidCI6IjUxN2QzNTAyLTI5MDEtNGRlMi1hODdiLTk1YzUwN2E5YTA4OCJ9).
 
+![](Home.jpg)
+![](Overview.jpg)
+![](Demography.jpg)
 
 
 **Overview Page:**
@@ -58,25 +61,24 @@ You can also interact with the interactive report I designed here.
 - **Who Uses What:** Analyze transaction count and average duration based on customer demographics like age, gender, and occupation, revealing deeper patterns.
 - **Loyalty Check:** Examine the distribution of transaction types by customer type (Wisabi vs. non-Wisabi), understanding your customer base and potential outreach opportunities.
 
-**Beyond the Numbers:**
+**Conclusion and Recommendations:**
 
-The database used for this project, a Microsoft product sample for online transaction processing (OLTP), serves as a powerful learning tool. Embarking on this entire project phase can significantly enhance your data analysis skills.
+In the dynamic world of banking, understanding the present and forecasting future trends is crucial. This project was undertaken with the purpose of analyzing the ATM transaction data for Wisabi Bank, aiming to gain insights on customer behavior and ATM usage. The analysis has successfully identified opportunities to enhance the customer experience.
 
-If you're eager to delve deeper, head over to the Wisabi Analytics YouTube Page. Their Power BI tutorial playlist and portfolio project await, promising an enriching journey into data visualization and analysis. Trust me, you won't regret it!
+The insights derived from this analysis underscore the value of leveraging data to understand customer behavior, optimize services, and ultimately drive growth and customer satisfaction. As we move forward, we will continue to monitor and analyze ATM transactions, adjusting our strategies as needed to meet the evolving needs of our customers. This approach exemplifies our dedication to continuous improvement and adaptability in our services.
 
-**Recommendations:**
+The recommendations section below will provide specific actions based on these insights. These recommendations will serve as a roadmap for improving ATM services, enhancing customer experience, and improving operational efficiency.
 
-The journey doesn't end with mere observations. Let's translate our insights into action, crafting a narrative that guides Wisabi Bank towards ATM service excellence.
+## Recommendations
 
-**Optimizing Utilization:**
+1. **ATM Distribution Optimization:** Kano, with an ATM utilization rate of 18.6%, indicates a high demand for cash transactions. This suggests an opportunity to enhance customer service by increasing the number of ATMs in the region. Conversely, the Federal Capital Territory (FCT) has the lowest utilization rate of 8.5%, indicating a potential oversupply of ATMs. A review of the ATM distribution strategy in this area could lead to improved resource allocation.
 
-- **Low-Performing ATMs:** Give them a helping hand! Increase visibility and accessibility, consider offering attractive incentives, and leverage marketing channels. Don't forget - additional services and understanding customer preferences can be game-changers.
-- **High-Demand ATMs:** Let's handle the rush! Consider adding more ATMs or upgrading to faster models. Regular maintenance and minimized downtime are crucial. Analyzing usage patterns can pinpoint bottlenecks and pave the way for smoother transactions. Educating customers on efficient ATM usage can also make a big difference.
+2. **Demographic Targeting:** Our data shows that customers aged 15-25 years have the highest transaction frequency of 260. This presents an opportunity to increase overall ATM usage by tailoring services and marketing efforts to this demographic.
 
-**Transaction Insights:**
+3. **Service Efficiency Improvement:** The average transaction duration for withdrawals in Kano exceeds 5 minutes. Reducing this time could significantly improve customer satisfaction and potentially increase transaction volume.
 
-- **Shifting Gears:** A high proportion of balance inquiries and transfers suggests an opportunity. Educating customers about alternative banking channels like phone banking or online platforms can be incredibly beneficial. Offering incentives for using these channels could further encourage adoption.
+4. **Extended Service Hours in Lagos:** Our data shows significant ATM activity in Lagos after 7 pm. Extending service hours or increasing the number of ATMs could help meet this demand and improve customer service.
 
-**Note:** Remember to replace placeholders with your actual data and visuals. Tailor the report to your specific findings and consider adding interactive elements for enhanced engagement. Regularly update the report with new data and insights.
+5. **Promotion of Deposit and Transfer Services:** While withdrawals are the most common transaction type, accounting for over 50% of transactions, deposits and transfers each account for over 10%. Promoting these services could diversify usage and increase overall transaction volumes.
 
-I hope this streamlined version addresses your concerns and provides a clear structure for your Wisabi ATM Report documentation.
+6. **Resource Planning for High-Activity Months:** High transaction activity is observed in January, March, May, July, October, and December. Ensuring adequate resources during these months could help handle the increased volume and maintain service quality.
