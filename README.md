@@ -1,5 +1,7 @@
 **Wisabi ATM Report**
 
+![](Home.png)
+
 **Introduction:**
 
 This Power BI report analyzes ATM transaction data for Wisabi Bank, providing insights into customer behavior, ATM usage, and opportunities to improve services.
@@ -44,7 +46,7 @@ The dataset for this project, sourced from the Wisabi Analytics YouTube channel,
 
 You can also interact with the interactive report I designed [here](https://app.powerbi.com/view?r=eyJrIjoiMTExNDgxMGEtNjA0YS00YmE1LWIxOWQtM2I5YTY3Y2QyY2MxIiwidCI6IjUxN2QzNTAyLTI5MDEtNGRlMi1hODdiLTk1YzUwN2E5YTA4OCJ9).
 
-![](Home.jpg)
+![](Home.png)
 ![](Overview.jpg)
 ![](Demography.jpg)
 
