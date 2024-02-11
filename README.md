@@ -58,7 +58,7 @@ You can also interact with the interactive report I designed [here](https://app.
 - **Duration vs. Value:** See how transaction duration relates to average transaction amount, uncovering potential insights into customer behavior.
 - **Utilization Rate Dance:** Explore the utilization rates of each ATM location, identifying areas for improvement or optimization.
 
-**Demographics Page:**
+**Demography Page:**
 
 - **Transaction Pulse by Age:** Discover how transaction frequency varies across different age groups, gaining valuable insights into customer preferences.
 - **Who Uses What:** Analyze transaction count and average duration based on customer demographics like age, gender, and occupation, revealing deeper patterns.
