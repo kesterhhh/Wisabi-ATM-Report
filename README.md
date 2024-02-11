@@ -8,6 +8,7 @@ This Power BI report analyzes ATM transaction data for Wisabi Bank, providing in
 
 **_Disclaimer_:** This report is based on a practice dataset, creating a fictional scenario for exploration, and does not represent any actual company, institution, or country. The insights presented in this report are based on simulated ATM transaction data and are intended for demonstration purposes only. They showcase the capabilities of Power BI.
 
+
 **Problem Statement:**
 
 1. Analyze the ATM transaction data and generate reports and visualizations that show the most popular ATM locations and transaction types by time of day, day of week, and month.
