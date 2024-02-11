@@ -1,6 +1,6 @@
 **Wisabi ATM Report**
 
-![](Home.png)
+![](ATM-Machine.jpg)
 
 **Introduction:**
 
