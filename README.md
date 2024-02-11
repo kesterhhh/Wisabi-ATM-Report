@@ -26,7 +26,7 @@ This Power BI report analyzes ATM transaction data for Wisabi Bank, providing in
 - New Measures With DAX
 - Data Visualization
 - Power Query
-- PowerBI
+- Power BI
 - Data Analysis
 - Customer Segmentation
 - Performance Evaluation
