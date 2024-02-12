@@ -48,7 +48,7 @@ The dataset for this project, sourced from the Wisabi Analytics YouTube channel,
 
 You can also interact with the interactive report I designed [here](https://app.powerbi.com/view?r=eyJrIjoiMTExNDgxMGEtNjA0YS00YmE1LWIxOWQtM2I5YTY3Y2QyY2MxIiwidCI6IjUxN2QzNTAyLTI5MDEtNGRlMi1hODdiLTk1YzUwN2E5YTA4OCJ9).
 
-![](Home.png)
+![](Home.jpg)
 ![](Overview.jpg)
 ![](Demography.jpg)
 
