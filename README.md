@@ -36,7 +36,7 @@ This Power BI report analyzes ATM transaction data for Wisabi Bank, providing in
 
 The dataset is structured to facilitate analysis, with key entities including customers, locations, calendar dates, transaction types, and transactions. The transaction data serves as the primary source of insights, supplemented by customer and location details.
 
-**Visual Explorations:**
+**Visualization:**
 
 The report contains three pages:
 
@@ -57,13 +57,13 @@ You can also interact with the interactive report I designed [here](https://app.
 
 - **Transaction Tempo:** Witness the ebb and flow of transactions over time, analyzing trends in both count and average amount.
 - **Duration vs. Value:** See how transaction duration relates to average transaction amount, uncovering potential insights into customer behavior.
-- **Utilization Rate Dance:** Explore the utilization rates of each ATM location, identifying areas for improvement or optimization.
+- **Utilization Rates:** Explore the utilization rates of each ATM location, identifying areas for improvement or optimization.
 
 **Demography Page:**
 
-- **Transaction Pulse by Age:** Discover how transaction frequency varies across different age groups, gaining valuable insights into customer preferences.
+- **Age and Transaction Activity:** Discover how transaction frequency varies across different age groups, gaining valuable insights into customer preferences.
 - **Who Uses What:** Analyze transaction count and average duration based on customer demographics like age, gender, and occupation, revealing deeper patterns.
-- **Loyalty Check:** Examine the distribution of transaction types by customer type (Wisabi vs. non-Wisabi), understanding your customer base and potential outreach opportunities.
+- **Customers Check:** Examine the distribution of transaction types by customer type (Wisabi vs. non-Wisabi), understanding your customer base and potential outreach opportunities.
 
 **Conclusion and Recommendations:**
 
